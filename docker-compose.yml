@@ -1,0 +1,3 @@
+services:
+  gym_stats_api:
+    build: .
